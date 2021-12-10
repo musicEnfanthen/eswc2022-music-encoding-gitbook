@@ -6,7 +6,9 @@ coverY: 0
 
 # Sessions / Schedule
 
-This tutorial will be divided into four sections (two in the morning, two in the afternoon), each including slides and practical exercises:
+{% hint style="info" %}
+This tutorial will be divided into four sections (two in the morning, two in the afternoon), each including slides and practical exercises
+{% endhint %}
 
 1. Icebreaker challenge: The complexity of music data (music encodings, FRBR, and the Music Ontology)
 2. Describing and querying music data&#x20;
