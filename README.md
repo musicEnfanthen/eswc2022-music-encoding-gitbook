@@ -1,4 +1,11 @@
-# About
+---
+description: 'An #ESWC 2022 tutorial'
+cover: >-
+  https://images.unsplash.com/photo-1507838153414-b4b713384a76?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxtdXNpY3xlbnwwfHx8fDE2MzkxNjUzNDE&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
+# Linked Data and Music Encodings
 
 ## Abstract
 
