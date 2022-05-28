@@ -10,8 +10,8 @@ coverY: 0
 This tutorial will be divided into four sections (two in the morning, two in the afternoon), each including slides and practical exercises
 {% endhint %}
 
-1. Icebreaker challenge: The complexity of music data (music encodings, FRBR, and the Music Ontology)
-2. Describing and querying music data&#x20;
-3. Interlinking music datasets (authority files and entity reconciliation)
-4. Linking into music encodings
+1. Introduction & Music Representation Systems
+2. Music Encoding in MEI
+3. Linking into music encodings (MEI)
+4. Touring Music + Linked Data
 
