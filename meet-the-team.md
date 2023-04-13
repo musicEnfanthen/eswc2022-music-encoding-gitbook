@@ -13,7 +13,7 @@ mdw – University of Music and Performing Arts — :flag\_at:Vienna (GMT+1)
 
 :globe\_with\_meridians: [https://iwk.mdw.ac.at/signature-sound-vienna/](https://iwk.mdw.ac.at/signature-sound-vienna/)
 
-David holds a PhD from the School of Information Studies, McGill University, where he conducted research into the notion of 'relevance' in music information retrieval. After four years of postdoctoral research into music and Linked Data at the University of Oxford's e-Research Centre, he moved to the mdw - University of Music and Performing Arts Vienna. There, he acted as Data Officer on the recently completed EU Horizon 2020-funded TROMPA Project (Towards Richer Online Music Public-domain Archives), before taking on the role of P.I. of Signature Sound Vienna, a project to quantitatively describe the Vienna Philharmonic's New Year's Concert series using approaches from music informatics, digital musicology, and Web science.
+David holds a PhD from the School of Information Studies, McGill University, where he conducted research into the notion of 'relevance' in music information retrieval. After four years of postdoctoral research into music and Linked Data at the University of Oxford's e-Research Centre, he moved to the mdw - University of Music and Performing Arts Vienna. There, he acted as Data Officer on the recently completed EU Horizon 2020-funded TROMPA Project (Towards Richer Online Music Public-domain Archives), before taking on the role of P.I. of Signature Sound Vienna, an FWF-funded project (Austrian Science Fund; 34664-G) to quantitatively describe the Vienna Philharmonic's New Year's Concert series using approaches from music informatics, digital musicology, and Web science.
 
 \
 
